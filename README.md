@@ -1,2 +1,2 @@
 # miami-housing-project
-Data Science Personal Project
+Data Science/Analytics Personal Project Done Outside Classroom Environment 
